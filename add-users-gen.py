@@ -1,6 +1,6 @@
 import sys
 
-filepath = '/Users/sundelor/git/all/scrips/userlist.txt'
+filepath = '/path/to/userlist.txt'
 with open(filepath) as file:
     users = file.readlines()
 
