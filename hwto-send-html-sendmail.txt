@@ -1,0 +1,20 @@
+To: some mailboxes
+Subject: Subj
+Content-Type: text/html; charset=UTF-8
+MIME-Version: 1.0
+From: Name <noreply@domain.ru>
+
+<html>
+<head>
+    <title>
+
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+<body>
+  
+</body>
+
+</html>
