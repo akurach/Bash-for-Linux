@@ -20,3 +20,12 @@ generate yaml:
    authorized:
    - id_rsa_pub/username.pub
 ```
+
+
+
+How to send html via sendmail
+----------------
+
+```
+sendmail -vt < hwto-send-html-sendmail.txt
+```
